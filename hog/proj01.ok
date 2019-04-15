@@ -1,6 +1,6 @@
 {
   "name": "Project 1: Hog",
-  "endpoint": "cal/cs61a/sp19/proj01",
+  "endpoint": "gab/cs61a-homebrew/sp19/proj01",
   "src": [
     "hog.py"
   ],
